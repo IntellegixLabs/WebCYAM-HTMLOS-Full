@@ -166,7 +166,7 @@ If you encounter any bugs or have feature requests, please open an issue on the 
 
 ## 📜 License
 
-HTML OS is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the project as per the terms of the license.
+HTML OS is licensed under an adapted version of the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the project as per the terms of the license.
 
 ---
 
