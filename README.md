@@ -141,9 +141,9 @@ Please note that making a HTML OS plugin requires general HTML and XML knowledge
 
 ---
 
-## 🌟 First Release Notes
+## 🌟 First few Release Notes
 
-This is the **first release** of HTML OS, and while it is functional, there are still many features and improvements planned for future updates. Here are some key points about this release:
+This is the **first few release** of HTML OS, and while it is functional, there are still many features and improvements planned for future updates. Here are some key points about this release:
 
 - **Core Features**: The basic desktop environment, file system, and built-in apps are fully functional.
 - **Known Issues**:
