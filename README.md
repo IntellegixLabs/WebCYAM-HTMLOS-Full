@@ -1,7 +1,7 @@
 
 # HTML OS
 
-Welcome to **HTML OS**, a lightweight, browser-based operating system designed to simulate a desktop environment entirely in HTML, CSS, and JavaScript. This project is in its **first release**, and while it is still in its early stages, it already provides a functional and interactive experience for users who want to explore a web-based OS concept.
+Welcome to **HTML OS**, a lightweight, browser-based operating system designed to simulate a desktop environment entirely in HTML, CSS, and JavaScript. This project is in its **first few releases**, and while it is still in its early stages, it already provides a functional and interactive experience for users who want to explore a web-based OS concept.
 
 ---
 
