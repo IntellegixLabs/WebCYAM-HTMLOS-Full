@@ -54,8 +54,8 @@ To run HTML OS, you need:
    Once the project is loaded in your browser, you can start interacting with the desktop environment, opening apps, and managing files.
 
 ---
-**Plugins Issues:** The plugins feature has failed and will either be reworked or removed completely. For more information, please check the [Announcement](https://github.com/IntellegixLabs/WebCYAM-HTMLOS-Full/releases?q=Announcement+&expanded=true) page.
-## Plugins
+**Plugins Issues:** The plugins feature has failed is no longer supported. For more information, please check the [Announcement](https://github.com/IntellegixLabs/WebCYAM-HTMLOS-Full/releases?q=Announcement+&expanded=true) page.
+## Plugins (support ended, these following inststructions are invalid.)
 # PLUGIN ONLY WORKS FOR LATEST RELEASE, GET IT IN THE RELEASES TAB.
 It is possible to install plugins for HTML OS, even if its custom made.
 All you need to do is add snippnets of code into the `htmlos-1.0.htm` file:
